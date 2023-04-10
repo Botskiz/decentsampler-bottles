@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DecentSampler minVersion="1.7.2" pluginVersion="1">
+  <groups seqMode="round_robin">
+    <group name="BT_Top" volume="0.5" tags="top" ampVelTrack="0.30" loopCrossfade="500" loopCrossfadeMode="linear">
+      <sample path="Samples/L_RR1_59_B2.wav" name="L_RR1_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="108102" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_60_C3.wav" name="L_RR1_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="103669" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_62_D3.wav" name="L_RR1_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="97970" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_64_E3.wav" name="L_RR1_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="97608" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_65_F3.wav" name="L_RR1_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="124475" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_67_G3.wav" name="L_RR1_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="97879" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_69_A3.wav" name="L_RR1_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="113710" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_71_B3.wav" name="L_RR1_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="121852" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_72_C4.wav" name="L_RR1_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="103940" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_74_D4.wav" name="L_RR1_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="95256" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_76_E4.wav" name="L_RR1_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="105659" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_77_F4.wav" name="L_RR1_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="118686" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR1_79_G4.wav" name="L_RR1_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="109678" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/L_RR2_59_B2.wav" name="L_RR2_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="126375" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_60_C3.wav" name="L_RR2_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="118505" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_62_D3.wav" name="L_RR2_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="110363" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_64_E3.wav" name="L_RR2_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="122303" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_65_F3.wav" name="L_RR2_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="116876" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_67_G3.wav" name="L_RR2_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="113620" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_69_A3.wav" name="L_RR2_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="119409" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_71_B3.wav" name="L_RR2_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="116786" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_72_C4.wav" name="L_RR2_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="94080" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_74_D4.wav" name="L_RR2_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="110906" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_76_E4.wav" name="L_RR2_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="105659" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_77_F4.wav" name="L_RR2_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="108011" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR2_79_G4.wav" name="L_RR2_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="109730" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/L_RR3_59_B2.wav" name="L_RR3_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="131169" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_60_C3.wav" name="L_RR3_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="104664" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_62_D3.wav" name="L_RR3_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="112806" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_64_E3.wav" name="L_RR3_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="118324" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_65_F3.wav" name="L_RR3_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="119590" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_67_G3.wav" name="L_RR3_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="120314" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_69_A3.wav" name="L_RR3_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="114158" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_71_B3.wav" name="L_RR3_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="108192" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_72_C4.wav" name="L_RR3_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="98694" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_74_D4.wav" name="L_RR3_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="107106" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_76_E4.wav" name="L_RR3_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="122937" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_77_F4.wav" name="L_RR3_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="116153" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR3_79_G4.wav" name="L_RR3_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="111901" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/L_RR4_59_B2.wav" name="L_RR4_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="128094" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_60_C3.wav" name="L_RR4_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="130536" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_62_D3.wav" name="L_RR4_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="108825" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_64_E3.wav" name="L_RR4_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="119500" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_65_F3.wav" name="L_RR4_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="117871" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_67_G3.wav" name="L_RR4_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="116153" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_69_A3.wav" name="L_RR4_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="118324" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_71_B3.wav" name="L_RR4_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="109639" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_72_C4.wav" name="L_RR4_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="127732" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_74_D4.wav" name="L_RR4_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="108825" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_76_E4.wav" name="L_RR4_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="117690" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_77_F4.wav" name="L_RR4_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="107378" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/L_RR4_79_G4.wav" name="L_RR4_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="110001" loopEnabled="1" seqPosition="4" />
+      <effects>
+        <effect type="wave_folder" drive="1" threshold="1" />
+        <effect type="wave_shaper" drive="1" driveBoost="0.01" outputLevel="1" />
+      </effects>
+    </group>
+    <group name="BT_Bottom" volume="0.5" tags="bottom" ampVelTrack="0.30">
+      <sample path="Samples/R_RR1_59_B2.wav" name="R_RR1_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="108102" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_60_C3.wav" name="R_RR1_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="103669" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_62_D3.wav" name="R_RR1_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="97970" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_64_E3.wav" name="R_RR1_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="97608" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_65_F3.wav" name="R_RR1_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="124475" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_67_G3.wav" name="R_RR1_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="97879" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_69_A3.wav" name="R_RR1_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="113710" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_71_B3.wav" name="R_RR1_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="121852" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_72_C4.wav" name="R_RR1_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="103940" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_74_D4.wav" name="R_RR1_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="95256" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_76_E4.wav" name="R_RR1_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="105659" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_77_F4.wav" name="R_RR1_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="118686" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR1_79_G4.wav" name="R_RR1_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="109678" loopEnabled="1" seqPosition="1" />
+      <sample path="Samples/R_RR2_59_B2.wav" name="R_RR2_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="126375" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_60_C3.wav" name="R_RR2_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="118505" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_62_D3.wav" name="R_RR2_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="110363" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_64_E3.wav" name="R_RR2_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="122303" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_65_F3.wav" name="R_RR2_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="116876" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_67_G3.wav" name="R_RR2_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="113620" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_69_A3.wav" name="R_RR2_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="119409" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_71_B3.wav" name="R_RR2_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="116786" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_72_C4.wav" name="R_RR2_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="94080" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_74_D4.wav" name="R_RR2_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="110906" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_76_E4.wav" name="R_RR2_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="105659" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_77_F4.wav" name="R_RR2_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="108011" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR2_79_G4.wav" name="R_RR2_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="109730" loopEnabled="1" seqPosition="2" />
+      <sample path="Samples/R_RR3_59_B2.wav" name="R_RR3_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="131169" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_60_C3.wav" name="R_RR3_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="104664" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_62_D3.wav" name="R_RR3_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="112806" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_64_E3.wav" name="R_RR3_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="118324" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_65_F3.wav" name="R_RR3_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="119590" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_67_G3.wav" name="R_RR3_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="120314" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_69_A3.wav" name="R_RR3_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="114158" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_71_B3.wav" name="R_RR3_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="108192" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_72_C4.wav" name="R_RR3_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="98694" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_74_D4.wav" name="R_RR3_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="107106" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_76_E4.wav" name="R_RR3_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="122937" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_77_F4.wav" name="R_RR3_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="116153" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR3_79_G4.wav" name="R_RR3_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="111901" loopEnabled="1" seqPosition="3" />
+      <sample path="Samples/R_RR4_59_B2.wav" name="R_RR4_59_B2" rootNote="59" loNote="24" hiNote="59" loVel="0" hiVel="127" end="128094" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_60_C3.wav" name="R_RR4_60_C3" rootNote="60" loNote="60" hiNote="61" loVel="0" hiVel="127" end="130536" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_62_D3.wav" name="R_RR4_62_D3" rootNote="62" loNote="62" hiNote="63" loVel="0" hiVel="127" end="108825" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_64_E3.wav" name="R_RR4_64_E3" rootNote="64" loNote="64" hiNote="64" loVel="0" hiVel="127" end="119500" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_65_F3.wav" name="R_RR4_65_F3" rootNote="65" loNote="65" hiNote="66" loVel="0" hiVel="127" end="117871" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_67_G3.wav" name="R_RR4_67_G3" rootNote="67" loNote="67" hiNote="68" loVel="0" hiVel="127" end="116153" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_69_A3.wav" name="R_RR4_69_A3" rootNote="69" loNote="69" hiNote="70" loVel="0" hiVel="127" end="118324" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_71_B3.wav" name="R_RR4_71_B3" rootNote="71" loNote="71" hiNote="71" loVel="0" hiVel="127" end="109639" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_72_C4.wav" name="R_RR4_72_C4" rootNote="72" loNote="72" hiNote="73" loVel="0" hiVel="127" end="127732" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_74_D4.wav" name="R_RR4_74_D4" rootNote="74" loNote="74" hiNote="75" loVel="0" hiVel="127" end="108825" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_76_E4.wav" name="R_RR4_76_E4" rootNote="76" loNote="76" hiNote="76" loVel="0" hiVel="127" end="117690" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_77_F4.wav" name="R_RR4_77_F4" rootNote="77" loNote="77" hiNote="78" loVel="0" hiVel="127" end="107378" loopEnabled="1" seqPosition="4" />
+      <sample path="Samples/R_RR4_79_G4.wav" name="R_RR4_79_G4" rootNote="79" loNote="79" hiNote="107" loVel="0" hiVel="127" end="110001" loopEnabled="1" seqPosition="4" />
+      <effects>
+        <effect type="wave_folder" drive="1" threshold="1" />
+        <effect type="wave_shaper" drive="1" driveBoost="0.01" outputLevel="1" />
+      </effects>
+    </group>
+  </groups>
+
+  <effects>
+    <effect type="lowpass" frequency="22000.0" />
+    <effect type="chorus" mix="0.0" modDepth="0.2" modRate="0.2" />
+    <effect type="reverb" wetLevel="0.5" />
+    <effect type="wave_folder" drive="1" threshold="1" />
+    <effect type="wave_shaper" drive="1" driveBoost="0.01" outputLevel="1" />
+  </effects>
+
+  <midi>
+    <!-- Set Distortion Mode to Soft -->
+    <note note="0">
+      <binding type="control" level="ui" position="34" parameter="value" translation="fixed_value" translationValue="1" />
+    </note>
+    <!-- Set Distortion Mode to Hard -->
+    <note note="2">
+      <binding type="control" level="ui" position="34" parameter="value" translation="fixed_value" translationValue="2" />
+    </note>
+    <!-- Set Distortion Mode to Off -->
+    <note note="4">
+      <binding type="control" level="ui" position="34" parameter="value" translation="fixed_value" translationValue="3" />
+    </note>
+    <!-- Disable Reverb -->
+    <note note="5">
+      <binding type="effect" level="instrument" position="2" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+    </note>
+    <!-- Enable Reverb -->
+    <note note="7">
+      <binding type="effect" level="instrument" position="2" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+    </note>
+    <!-- Disable Chorus -->
+    <note note="9">
+      <binding type="effect" level="instrument" position="1" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+    </note>
+    <!-- Enable Chorus -->
+    <note note="11">
+      <binding type="effect" level="instrument" position="1" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+    </note>
+  </midi>
+
+  <ui bgImage="Samples/background.png" bgColor="FFB3C7Cf" width="812" height="375">
+    <keyboard>
+      <color loNote="0" hiNote="4" color="FFFF8888" />
+      <color loNote="5" hiNote="7" color="FF88FF88" />
+      <color loNote="9" hiNote="11" color="FFFF88FF" />
+      <color loNote="24" hiNote="58" color="FFCFC7B3" />
+      <color loNote="59" hiNote="79" color="FF62A4BF" />
+      <color loNote="80" hiNote="107" color="FFCFC7B3" />
+    </keyboard>
+    <tab name="main">
+
+      <!-- Air -->
+      <label x="380" y="33" text="Air" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="380" y="44" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0.0" maxValue="1.0" value="0.5">
+        <binding type="control" level="ui" position="11" parameter="VALUE" translation="fixed_value" translationValue="0" />
+        <binding type="amp" level="tag" identifier="top" parameter="AMP_VOLUME" translation="linear" translationOutputMin="2" translationOutputMax="0" />
+        <binding type="amp" level="tag" identifier="bottom" parameter="AMP_VOLUME" translation="linear" translationOutputMin="0" translationOutputMax="2" />
+      </control>
+
+      <!-- Tone -->
+      <label x="445" y="33" text="Tone" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="445" y="44" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" value="1">
+        <binding type="effect" level="instrument" position="0" parameter="FX_FILTER_FREQUENCY" translation="table" translationTable="0,33;0.3,150;0.4,450;0.5,1100;0.7,4100;0.9,11000;1.0001,22000" />
+      </control>
+
+      <!-- Attack -->
+      <label x="540" y="33" text="Attack" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="540" y="44" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0.0" maxValue="10.0" value="1">
+        <binding type="amp" level="instrument" position="0" parameter="ENV_ATTACK" />
+      </control>
+
+      <!-- Release -->
+      <label x="605" y="33" text="Release" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="605" y="44" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0.0" maxValue="25.0" value="1">
+        <binding type="amp" level="instrument" position="0" parameter="ENV_RELEASE" />
+      </control>
+
+      <!-- Panning -->
+      <label x="365" y="160" text="Pan" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="365" y="105" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="-1" maxValue="1" value="0">
+        <binding type="control" level="ui" position="11" parameter="VALUE" translation="fixed_value" translationValue="0" />
+        <binding type="amp" level="group" position="0" parameter="PAN" translation="linear" translationOutputMin="-100" translationOutputMax="100" />
+        <binding type="amp" level="group" position="1" parameter="PAN" translation="linear" translationOutputMin="-100" translationOutputMax="100" />
+      </control>
+
+      <!-- Stereo Separation -->
+      <label x="430" y="160" text="Stereo" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="430" y="105" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="-1" maxValue="1" value="0">
+        <binding type="control" level="ui" position="9" parameter="VALUE" translation="fixed_value" translationValue="0" />
+        <binding type="control" level="ui" position="1" parameter="VALUE" translation="fixed_value" translationValue="0.5" />
+        <binding type="amp" level="group" position="0" parameter="PAN" translation="linear" translationOutputMin="-100" translationOutputMax="100" />
+        <binding type="amp" level="group" position="1" parameter="PAN" translation="linear" translationOutputMin="100" translationOutputMax="-100" />
+      </control>
+
+      <!-- Reverb -->
+      <label x="525" y="160" text="Reverb" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="525" y="105" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" textColor="FF000000" value="0">
+        <binding type="effect" level="instrument" position="2" parameter="FX_REVERB_WET_LEVEL" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+      </control>
+
+      <!-- Chorus -->
+      <label x="590" y="160" text="Chorus" textSize="20" width="68" height="20" textColor="FFFFFFFF" />
+      <control x="590" y="105" width="68" height="68" trackForegroundColor="FFFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" value="0">
+        <binding type="effect" level="instrument" position="1" parameter="FX_MIX" translation="linear" />
+      </control>
+
+      <!-- Distortion Labels -->
+      <label x="719" y="18" text="Distortion" textSize="20" width="68" height="20" textColor="FFFFFFFF" hAlign="right" />
+      <label x="730" y="19" text="_______" textSize="20" width="57" height="20" textColor="FFFFFFFF" hAlign="right" />
+
+      <label x="722" y="28" text="Fold" textSize="18" width="60" height="45" textColor="BBFFFFFF" hAlign="left" />
+      <label x="717" y="44" text="____" textSize="20" width="35" height="20" textColor="6600154C" hAlign="left" />
+
+      <label x="700" y="53" text="Shape" textSize="18" width="60" height="45" textColor="BBFFFFFF" hAlign="right" />
+      <label x="730" y="69" text="____" textSize="20" width="35" height="20" textColor="6600154C" hAlign="right" />
+
+      <label x="722" y="78" text="Treshold" textSize="18" width="60" height="45" textColor="BBFFFFFF" hAlign="left" />
+      <label x="717" y="94" text="____" textSize="20" width="35" height="20" textColor="6600154C" hAlign="left" />
+
+      <label x="700" y="103" text="Boost" textSize="18" width="60" height="45" textColor="BBFFFFFF" hAlign="right" />
+      <label x="730" y="119" text="____" textSize="20" width="35" height="20" textColor="6600154C" hAlign="right" />
+
+      <label x="722" y="128" text="Output" textSize="18" width="60" height="45" textColor="BBFFFFFF" hAlign="left" />
+      <label x="717" y="144" text="___" textSize="20" width="30" height="20" textColor="6600154C" hAlign="left" />
+
+      <label x="695" y="175" text="Type" textSize="18" width="60" height="20" textColor="FFFFFFFF" hAlign="left" />
+
+      <!-- Distortion Controls -->
+      <control x="690" y="29" width="42" height="45" trackForegroundColor="BBFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" value="0">
+        <binding type="effect" level="group" position="0" groupIndex="0" parameter="FX_DRIVE" translation="linear" translationOutputMin="1" translationOutputMax="100" />
+        <binding type="effect" level="group" position="0" groupIndex="1" parameter="FX_DRIVE" translation="linear" translationOutputMin="1" translationOutputMax="100" />
+        <binding type="effect" level="intrument" position="3" parameter="FX_DRIVE" translation="linear" translationOutputMin="1" translationOutputMax="100" />
+      </control>
+      <control x="750" y="54" width="42" height="45" trackForegroundColor="BBFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" value="0">
+        <binding type="effect" level="group" position="1" groupIndex="0" parameter="FX_DRIVE" translation="linear" translationOutputMin="1" translationOutputMax="100" />
+        <binding type="effect" level="group" position="1" groupIndex="1" parameter="FX_DRIVE" translation="linear" translationOutputMin="1" translationOutputMax="100" />
+        <binding type="effect" level="instrument" position="4" parameter="FX_DRIVE" translation="linear" translationOutputMin="1" translationOutputMax="100" />
+      </control>
+      <control x="690" y="79" width="42" height="45" trackForegroundColor="BBFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" value="1">
+        <binding type="effect" level="group" position="0" groupIndex="0" parameter="FX_THRESHOLD" translation="linear" />
+        <binding type="effect" level="group" position="0" groupIndex="1" parameter="FX_THRESHOLD" translation="linear" />
+        <binding type="effect" level="instrument" position="3" parameter="FX_THRESHOLD" translation="linear" />
+      </control>
+      <control x="750" y="104" width="42" height="45" trackForegroundColor="BBFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0" maxValue="1" value="0">
+        <binding type="effect" level="group" position="1" groupIndex="0" parameter="FX_DRIVE_BOOST" translation="linear" />
+        <binding type="effect" level="group" position="1" groupIndex="1" parameter="FX_DRIVE_BOOST" translation="linear" />
+        <binding type="effect" level="intrument" position="4" parameter="FX_DRIVE_BOOST" translation="linear" />
+      </control>
+      <control x="690" y="129" width="42" height="45" trackForegroundColor="BBFFFFFF" trackBackgroundColor="6600154C" type="float" minValue="0.1" maxValue="1" value="1">
+        <binding type="effect" level="group" position="1" groupIndex="0" parameter="FX_OUTPUT_LEVEL" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+        <binding type="effect" level="group" position="1" groupIndex="1" parameter="FX_OUTPUT_LEVEL" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+        <binding type="effect" level="instrument" position="4" parameter="FX_OUTPUT_LEVEL" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+      </control>
+
+      <!-- Distortion Type -->
+      <menu x="732" y="175" width="50" height="20" requireSelection="true" value="1">
+        <option name="Soft">
+          <binding type="effect" level="group" position="0" groupIndex="0" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+          <binding type="effect" level="group" position="0" groupIndex="1" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+          <binding type="effect" level="group" position="1" groupIndex="0" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+          <binding type="effect" level="group" position="1" groupIndex="1" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+          <binding type="effect" level="instrument" position="3" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="instrument" position="4" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+        </option>
+        <option name="Hard">
+          <binding type="effect" level="group" position="0" groupIndex="0" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="group" position="0" groupIndex="1" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="group" position="1" groupIndex="0" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="group" position="1" groupIndex="1" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="instrument" position="3" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+          <binding type="effect" level="instrument" position="4" parameter="ENABLED" translation="fixed_value" translationValue="true" />
+        </option>
+        <option name="Off">
+          <binding type="effect" level="group" position="0" groupIndex="0" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="group" position="0" groupIndex="1" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="group" position="1" groupIndex="0" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="group" position="1" groupIndex="1" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="instrument" position="3" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+          <binding type="effect" level="instrument" position="4" parameter="ENABLED" translation="fixed_value" translationValue="false" />
+        </option>
+      </menu>
+
+    </tab>
+  </ui>
+</DecentSampler>
