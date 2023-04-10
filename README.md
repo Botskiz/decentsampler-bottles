@@ -90,7 +90,7 @@ Caution: Higher boost usually results in louder output. Use **Output** to balanc
 * **F-2:** Disable Reverb
 * **G-2:** Disable Reverb
 
-**Purple_** Chorus
+**Purple:** Chorus
 * **A-2:** Disable Chorus
 * **B-2:** Disable Chorus
 
