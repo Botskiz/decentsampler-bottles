@@ -3,7 +3,7 @@ Bottles is a library for Decent Sampler. Decent Sampler is available for free fo
 
 A minimum version of Decent Sampler 1.7.2 is required to use this library.
 
-The library features padlike sounds made by blowing into glass bottles filled with water.
+The library features padlike sounds made by blowing into glass bottles filled with water. The included demo is made entirely with Bottles (except for the Drums).
 
 
 ---
