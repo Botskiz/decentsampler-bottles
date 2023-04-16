@@ -157,6 +157,63 @@
     <note note="11">
       <binding type="effect" level="instrument" position="1" parameter="ENABLED" translation="fixed_value" translationValue="true" />
     </note>
+
+
+    <!-- Air Control -->
+    <cc number="21">
+      <binding type="control" level="ui" position="1" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Tone Control -->
+    <cc number="22">
+      <binding type="control" level="ui" position="3" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Pan Control -->
+    <cc number="23">
+      <binding type="control" level="ui" position="9" parameter="VALUE" translation="linear" translationOutputMin="-1" translationOutputMax="1" />
+    </cc>
+    <!-- Stereo Control -->
+    <cc number="24">
+      <binding type="control" level="ui" position="11" parameter="VALUE" translation="linear" translationOutputMin="-1" translationOutputMax="1" />
+    </cc>
+    <!-- Attack Control -->
+    <cc number="25">
+      <binding type="control" level="ui" position="5" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="10" />
+    </cc>
+    <!-- Release Control -->
+    <cc number="26">
+      <binding type="control" level="ui" position="7" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="25" />
+    </cc>
+    <!-- Reverb Control -->
+    <cc number="27">
+      <binding type="control" level="ui" position="13" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Chorus Control -->
+    <cc number="28">
+      <binding type="control" level="ui" position="15" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+
+    <!-- Fold Control -->
+    <cc number="53">
+      <binding type="control" level="ui" position="29" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Shape Control -->
+    <cc number="54">
+      <binding type="control" level="ui" position="30" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Threshold Control -->
+    <cc number="55">
+      <binding type="control" level="ui" position="31" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Boost Control -->
+    <cc number="56">
+      <binding type="control" level="ui" position="32" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+    </cc>
+    <!-- Output Control -->
+    <cc number="57">
+      <binding type="control" level="ui" position="33" parameter="VALUE" translation="linear" translationOutputMin="0.1" translationOutputMax="1" />
+    </cc>
+
+
   </midi>
 
   <ui bgImage="Samples/background.png" bgColor="FFB3C7Cf" width="812" height="375">

@@ -13,7 +13,7 @@ The library features padlike sounds made by blowing into glass bottles filled wi
 * Two voices for more or less airflow noises
 * Four round robin variations for each sample
 * Inbuilt effects
-* Keyswitches to enable or disable effects on demand
+* Keyswitches and Midi CC to enable or disable effects on demand
 * You may experience childhood memories
 
 
@@ -94,3 +94,20 @@ Caution: Higher boost usually results in louder output. Use **Output** to balanc
 * **A-2:** Disable Chorus
 * **B-2:** Disable Chorus
 
+### Midi CC
+See [`Knobs`](###Knobs) for details.
+- **21** Air
+- **22** Tone
+- **23** Pan
+- **24** Stereo
+- **25** Attack
+- **26** Release
+- **27** Reverb
+- **28** Chorus
+
+See [`Distortion`](###Distortion) for details.
+- **53** Fold
+- **54** Shape
+- **55** Threshold
+- **56** Boost
+- **57** Output
